@@ -1,4 +1,5 @@
 #!/bin/bash
+# This script downloads the Kaggle dataset on a GCP instance.
 
 pip install kaggle
 mkdir /root/.kaggle/
