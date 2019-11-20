@@ -9,4 +9,5 @@ kaggle datasets download -d fanconic/skin-cancer-malignant-vs-benign -p /home/ju
 cd /home/jupyter/skin-cancer-data/
 unzip *.zip
 rm -r data
+rm -f /home/jupyter/skin-cancer-data/skin-cancer-malignant-vs-benign.zip
 echo "Script completed"
