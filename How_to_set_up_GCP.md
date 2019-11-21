@@ -8,7 +8,7 @@
   * Check the box to install NVIDIA GPU driver.
 * Start the instance, then click "Open JupyterLab"
 * On the left panel, click the upload icon. Select your kaggle.json file. This will upload to `/home/jupyter`.
-* File > New > Console
+* File > New > Terminal
 * Type the following commands in the console:
 
         git clone https://github.com/asteffen/mole-classification.git
