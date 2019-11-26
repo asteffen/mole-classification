@@ -11,9 +11,9 @@
 * File > New > Terminal
 * Type the following commands in the console:
 
-        git clone https://github.com/asteffen/mole-classification.git
-        sudo su
-        cd mole-classification
-        chmod +x dl-kaggle.sh
-        ./dl-kaggle.sh
+      git clone https://github.com/asteffen/mole-classification.git
+      sudo su
+      cd mole-classification
+      chmod +x dl-kaggle.sh
+      ./dl-kaggle.sh
 * Remember to stop the instance when you are done.
